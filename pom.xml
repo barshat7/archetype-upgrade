@@ -57,7 +57,7 @@
             
     <aem.host>localhost</aem.host>
             
-    <aem.port>4502</aem.port>
+    <aem.port>8502</aem.port>
             
     <aem.publish.host>localhost</aem.publish.host>
             
@@ -81,7 +81,7 @@
             
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
             
-    <aem.sdk.api>2023.12.14538.20231205T165334Z-231100</aem.sdk.api>
+    <aem.sdk.api>2022.8.8316.20220818T100409Z-220700</aem.sdk.api>
             
     <aemanalyser.version>1.4.10</aemanalyser.version>
             
